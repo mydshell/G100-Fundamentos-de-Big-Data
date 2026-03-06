@@ -1,0 +1,3 @@
+Dentro de este backup se realizaron las modificaciones y correcciones necesarias para el punto 6: detección de registros con problemas y transformación de datos, incluyendo procesos de limpieza, corrección e imputación de datos.
+
+Nota para el profesor: en esta misma carpeta se encuentra el archivo backup de la base de datos. Se recomienda restaurar primero el backup en el gestor de bases de datos PostgreSQL antes de ejecutar los scripts SQL, ya que estos fueron desarrollados tomando como base dicha restauración. De esta manera los scripts funcionarán correctamente.

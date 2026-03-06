@@ -1,0 +1,17 @@
+﻿-- =========================================================
+-- Tarea 02 - Tarea ETL
+-- ENLACE A VIDEO (drive de google)
+-- =========================================================
+
+
+-- Miembros del grupo:
+-- Cristian Camilo Hernandez Lopez
+-- Juan Felipe Serna Bedoya
+-- Mydshell Stephannia Usuga Arango 
+
+
+
+
+-- =========================================================
+--https://drive.google.com/file/d/1eUJPdAoT2KO8NBYucQb8HpMgg2SOmTJs/view?usp=drive_link
+-- =========================================================
