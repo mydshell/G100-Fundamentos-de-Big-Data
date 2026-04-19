@@ -17,4 +17,5 @@ El propósito de este repositorio es **centralizar**, **evidenciar** y **facilit
 - **Integrante:** Mydshell Stephannia Usuga Arango
 
 ## Descripción de cada tarea
-- **Tarea 02:** Contiene los productos correspondientes al caso de estudio 
+- **Tarea 02:** Contiene los productos correspondientes al caso de estudio
+- **Tarea 04:** Contiene el desarrollo del caso de Inteligencia de Negocios
